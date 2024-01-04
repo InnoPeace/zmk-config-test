@@ -1,0 +1,2 @@
+config SHIELD_BLACKJACK
+    def_bool $(shields_list_contains,blackjack)
