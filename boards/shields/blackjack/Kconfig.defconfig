@@ -17,3 +17,5 @@ config SSD1306_REVERSE_MODE
 	default y
 
 endif # ZMK_DISPLAY
+
+CONFIG_ZMK_MOUSE=y
