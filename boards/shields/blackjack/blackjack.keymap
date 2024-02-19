@@ -14,7 +14,7 @@
             // |   1   |    2    |    3    |    +    | 
             // |   0   |   00    |    .    | RETURN  |
              bindings = <
-                &lt 1 A
+                &mo 1
                 &kp KP_NUMLOCK  &kp A    &kp B    &kp KP_SLASH
                 &kp LC(X)    &kp LC(C)    &kp LC(V)    &kp LC(F8)
                 &kp C_VOL_DN    &kp C_VOL_UP    &kp KP_N6    &kp LC(F9)
